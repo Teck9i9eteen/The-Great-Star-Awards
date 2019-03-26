@@ -1,0 +1,33 @@
+body {
+    background-image: url("https://www.nationalgeographic.com/content/dam/science/photos/000/012/1230.ngsversion.1488483024625.adapt.1900.1.jpg");
+}
+
+h1 {
+    font-family: 'Kumar One Outline', cursive;
+    color: Red;
+}
+
+p {
+    font-family: 'Allerta Stencil', sans-serif;
+    color:#4dd2ff;
+}
+
+html {
+    text-align: center;
+}
+
+.Red {
+    color:red;
+}
+
+.yellow {
+    color: yellow;
+}
+
+.Orange {
+    color: #4dff4d;
+}
+
+img {
+    height: 200px;
+}
